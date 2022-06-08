@@ -16,11 +16,7 @@ Projeto Criado Na Plataforma Dio
 # Flex Item
 
 ● flex-grow
-● flax-basis
-● flex-shrink
 ● flex
-
-● order
 ● align-self
 
 # Flex-direction
@@ -38,14 +34,6 @@ flex-direction para column, mantemos o padrão do flex-wrap que
 Essa propriedade vai se encarregar de alinhar os itens dentro do
 container de acordo com a direção pretendida e tratar da
 distribuição de espaçamento entre eles.
-
-# Flex-grow
-
-Define a proporcionalidade de crescimentos dos itens,
-respeitando o tamanho de seus conteúdos internos.
-
-OBS: não irá funcionar caso tenhamos adicionado justify-content
-ao nosso flex container
 
 # Valores possíveis
 
